@@ -1,0 +1,9 @@
+theme: jekyll-theme-cayman
+
+# Navigation (Optional)
+title: "SQL Fundamentals"
+description: "Structured Query Language"
+
+# Enable navigation links
+include:
+    - chapters/
