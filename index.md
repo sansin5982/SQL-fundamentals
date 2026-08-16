@@ -6,3 +6,4 @@ Chapters:
 - [Database and Table Basics](chapters/Database)
 - [Data Manipulation Language](chapters/DML)
 - [Aggregate Functions](chapters/Aggregate)
+- [Joins](chapters/Join)
