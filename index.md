@@ -17,3 +17,8 @@ Chapters:
   Performance](chapters/Chapter_11_Indexes_Query_Performance)
 - [Stored Procedures, Functions, Control Flow, and
   Triggers](chapters/Chapter_12_Stored_Procedures)
+- [Transactions and ACID
+  Properties](chapters/Chapter_13_Transactions_ACID)
+- [Common Table Expressions (CTEs) and Recursive
+  CTEs](chapters/Chapter_14_CTEs_Recursive)
+- [Window Functions](chapters/Chapter_15_Window_Functions)
